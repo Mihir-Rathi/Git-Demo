@@ -1,4 +1,4 @@
 # Git-Demo
 This is my First Git Repository.
 <br>
-Author-Mihir Rathi
+Author-Mihir(BVM Student)
